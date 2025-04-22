@@ -1,6 +1,6 @@
 Características desejadas de um software de qualidade segundo a ISO 9126
 
-A norma ISO 9126 define um conjunto de características que determinam a qualidade de um software. A seguir, apresenta-se cada uma dessas características acompanhada de suas subcaracterísticas, com questionamentos que orientam sua avaliação prática:
+A norma ISO 9126 define um conjunto de características que determinam a qualidade de um software. A seguir, apresenta-se cada uma dessas características acompanhada de suas subcaracterísticas:
 
 Funcionalidade – Avalia se o software atende às necessidades para as quais foi desenvolvido.
 
