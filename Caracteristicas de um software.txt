@@ -1,0 +1,48 @@
+Características desejadas de um software de qualidade segundo a ISO 9126
+
+A norma ISO 9126 define um conjunto de características que determinam a qualidade de um software. A seguir, apresenta-se cada uma dessas características acompanhada de suas subcaracterísticas, com questionamentos que orientam sua avaliação prática:
+
+Funcionalidade – Avalia se o software atende às necessidades para as quais foi desenvolvido.
+
+  Adequação: O sistema oferece as funções corretas para realizar as tarefas esperadas?
+  Acurácia: As funções entregues produzem resultados corretos e precisos?
+  Interoperabilidade: O software consegue se comunicar e operar com outros sistemas necessários?
+  Conformidade: Está em conformidade com leis, regulamentos e normas técnicas aplicáveis?
+  Segurança: Possui mecanismos eficazes de proteção contra acessos não autorizados?
+
+Confiabilidade – Refere-se à capacidade do sistema de manter seu desempenho sob condições específicas.
+
+  Maturidade: A frequência de falhas durante o uso é baixa?
+  Tolerância a falhas: Quando ocorre uma falha, o sistema continua operando corretamente ou recupera-se de forma controlada?
+  Recuperabilidade: Em caso de falha, o sistema consegue recuperar os dados e retornar ao estado anterior de funcionamento?
+
+Usabilidade – Avalia o esforço necessário para o uso eficaz e satisfatório do software.
+
+  Inteligibilidade: O usuário consegue compreender facilmente o funcionamento do sistema?
+  Apreensibilidade: O aprendizado do uso do software é rápido e simples?
+  Operacionalidade: As funcionalidades são fáceis de acessar e controlar?
+  Atratividade: A interface é agradável e contribui para uma boa experiência de uso?
+
+Eficiência – Mede o desempenho do sistema em relação aos recursos utilizados.
+
+  Tempo de resposta e processamento: O sistema executa suas funções com velocidade satisfatória?
+  Uso de recursos: Os recursos computacionais (memória, processador etc.) são utilizados de forma econômica?
+
+Manutenibilidade – Indica o quão fácil é modificar o sistema para corrigir falhas ou adaptar a novos requisitos.
+
+  Analisabilidade: Problemas e erros são fáceis de identificar?
+  Modificabilidade: O código pode ser alterado com facilidade?
+  Estabilidade: As alterações não geram novos problemas no sistema?
+  Testabilidade: Após alterações, o sistema pode ser testado com facilidade para garantir que tudo funcione como esperado?
+
+Portabilidade – Refere-se à capacidade do sistema de ser transferido para outros ambientes.
+
+  Adaptabilidade: O sistema pode ser executado em diferentes plataformas ou ambientes com facilidade?
+  Capacidade de instalação: O processo de instalação é simples e direto em novos contextos?
+  Conformidade com padrões: O software segue padrões de portabilidade reconhecidos?
+  Capacidade de substituição: Pode substituir outro software com funções semelhantes sem grandes dificuldades?
+
+Essas características permitem avaliar de forma abrangente a qualidade de um software, cobrindo desde seu comportamento funcional até aspectos de uso, manutenção e adaptação a diferentes contextos técnicos.
+
+Fonte: Qualidade de Software: Uma Análise a partir dos Critérios da Norma ISO 9126 – Brena Alves Marques, Maria Conceição Melo Silva.
+Disponível em: https://arquivo.anpad.org.br/abrir_pdf.php?e=ODU5Mg==
